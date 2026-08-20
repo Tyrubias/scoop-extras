@@ -1,10 +1,10 @@
 {
-    "version": "1.2.4",
+    "version": "1.2.5",
     "description": "A Graphical User Interface to manage Scoop apps.",
     "homepage": "https://github.com/windedge/Scooper",
     "license": "MIT",
-    "url": "https://github.com/windedge/Scooper/releases/download/v1.2.4/Scooper-1.2.4.msi",
-    "hash": "e9aa55494a3101302cc56a27ada559cea9af4e8fbeef8630e005912b30b40cbd",
+    "url": "https://github.com/windedge/Scooper/releases/download/v1.2.5/Scooper-1.2.5.msi",
+    "hash": "5c033d2c183985797a74f03a55abdc1af39927463be612491dd7c76215de6bb8",
     "extract_dir": "Scooper",
     "shortcuts": [
         [
