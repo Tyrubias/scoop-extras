@@ -1,16 +1,16 @@
 {
-    "version": "0.10.0",
+    "version": "0.10.1",
     "description": "From rtp to whip",
     "homepage": "https://github.com/binbat/live777/",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/binbat/live777/releases/download/v0.10.0/whipinto-v0.10.0-x86_64-pc-windows-msvc.exe#/whipinto.exe",
-            "hash": "57b7067956dfc177d3088035ae107fc6083d8bab53f209febeaa955e1a9f7809"
+            "url": "https://github.com/binbat/live777/releases/download/v0.10.1/whipinto-v0.10.1-x86_64-pc-windows-msvc.exe#/whipinto.exe",
+            "hash": "aedf5509ecae47991babd71347a91e5cd9a2f655773833d965b2a7085e3370bb"
         },
         "32bit": {
-            "url": "https://github.com/binbat/live777/releases/download/v0.10.0/whipinto-v0.10.0-i686-pc-windows-msvc.exe#/whipinto.exe",
-            "hash": "6a9cb04942720d837505f4ed8be53e74bc0b2a86dadca46af611336ada14cd23"
+            "url": "https://github.com/binbat/live777/releases/download/v0.10.1/whipinto-v0.10.1-i686-pc-windows-msvc.exe#/whipinto.exe",
+            "hash": "2a36c98c25f71e1de20e7cb88571880530c155e112c11fe7acbae1f94af4cb45"
         }
     },
     "bin": "whipinto.exe",
